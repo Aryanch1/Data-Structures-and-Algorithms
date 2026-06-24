@@ -1,7 +1,10 @@
 # 🧠 Daily Data Structures and Algorithms Problems and Solutions — LeetCode & GeeksforGeeks
 
 > Solving Data Structures & Algorithms problems every day to sharpen problem-solving skills and prepare for technical interviews at top tech companies.
-
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-800%2B-brightgreen)
+![LeetCode](https://img.shields.io/badge/LeetCode-Active-orange)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-darkgreen)
+![Language](https://img.shields.io/badge/Language-Java%20%7C%20Python%20%7C%20C%2B%2B-blue)
 ---
 
 ## 👨‍💻 About This Repository
