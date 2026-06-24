@@ -1,10 +1,12 @@
 # 🧠 Daily Data Structures and Algorithms Problems and Solutions — LeetCode & GeeksforGeeks
-
-> Solving Data Structures & Algorithms problems every day to sharpen problem-solving skills and prepare for technical interviews at top tech companies.
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-800%2B-brightgreen)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Active-orange)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-darkgreen)
 ![Language](https://img.shields.io/badge/Language-Java%20%7C%20Python%20%7C%20C%2B%2B-blue)
+
+
+> Solving Data Structures & Algorithms problems every day to sharpen problem-solving skills and prepare for technical interviews at top tech companies.
+
 ---
 
 ## 👨‍💻 About This Repository
@@ -142,16 +144,16 @@ class Solution {
 
 ## 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=your-username&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Aryanmouli&theme=dark)
 
 ---
 
 ## 🔗 Connect With Me
 
-LinkedIn:- https://linkedin.com/in/your-profile
-LeetCode:- https://leetcode.com/u/Aryanmouli
-GeeksforGeeks:- https://www.geeksforgeeks.org/profile/aryanmov1z0?tab=activity
-GitHub:- https://github.com/Aryanch1
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aryanmouli-cherupalli/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-orange)](https://leetcode.com/u/Aryanmouli)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Follow-darkgreen)](https://www.geeksforgeeks.org/profile/aryanmov1z0?tab=activity)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Aryanch1)
 
 ---
 
