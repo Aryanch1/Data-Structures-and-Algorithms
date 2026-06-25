@@ -8,7 +8,15 @@
 > Solving Data Structures & Algorithms problems every day to sharpen problem-solving skills and prepare for technical interviews at top tech companies.
 
 ---
+## 👋 Introduction 
 
+Hi, I'm Aryanmouli Cherupalli
+
+I'm a passionate Software Engineer and AI Developer with hands-on experience in full-stack development, AI engineering, and algorithmic problem solving. I build production-grade AI systems using RAG pipelines, agentic workflows, and Claude API integrations and I solve DSA problems every single day to keep my problem-solving sharp.
+
+With 800+ problems solved across LeetCode and GeeksforGeeks, I don't just practice algorithms to crack interviews I practice to think better as an engineer. Every problem makes me faster, cleaner, and more precise in my approach to real-world engineering challenges.
+
+---
 ## 👨‍💻 About This Repository
 
 This repository contains my daily solutions to problems from **LeetCode** and **GeeksforGeeks**, organized by topic and difficulty. Each solution includes clean, well-commented code with time and space complexity analysis.
