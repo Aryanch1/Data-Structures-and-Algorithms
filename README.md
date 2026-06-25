@@ -27,38 +27,6 @@ This repository contains my daily solutions to problems from **LeetCode** and **
 
 ---
 
-## 📁 Repository Structure
-
-```
-DSA-Solutions/
-│
-├── LeetCode/
-│   ├── Arrays/
-│   │   ├── Easy/
-│   │   ├── Medium/
-│   │   └── Hard/
-│   ├── Strings/
-│   ├── LinkedList/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── DynamicProgramming/
-│   ├── Sorting/
-│   ├── BinarySearch/
-│   ├── Backtracking/
-│   ├── Stack_Queue/
-│   └── Heap/
-│
-├── GeeksforGeeks/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── LinkedList/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── DynamicProgramming/
-│   └── Sorting/
-│
-└── README.md
-```
 
 ---
 
