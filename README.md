@@ -142,16 +142,6 @@ class Solution {
 
 ---
 
-## 📈 LeetCode Stats
-
-## 🏅 LeetCode Achievements
-
-[![LeetCode Medal](https://leetcode.com/medal/?showImg=0&id=10384139&isLevel=false)](https://leetcode.com/u/Aryanmouli)
-
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Aryanmouli&theme=dark)
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aryanmouli-cherupalli/)
